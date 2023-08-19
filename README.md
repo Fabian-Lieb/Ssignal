@@ -1,2 +1,2 @@
-# Ssiganl
+# Ssignal
 Statistical signal processing
